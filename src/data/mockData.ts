@@ -87,6 +87,15 @@ export const mockNotes: Note[] = [
     uploadDate: '2024-01-05',
     downloadUrl: 'https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_8',
     fileSize: '4.2 MB'
+  }{
+    id: '4',
+    title: 'Unit 1',
+    subject: 'Object Oriented Programming',
+    semester: '2',
+    uploadedBy: 'dakshchaudhary16',
+    uploadDate: '2025-10-29',
+    downloadUrl: 'https://drive.google.com/file/d/1-S-N6nJsmWdKBTMZYekSHYMTUxjmEG-z/view?usp=share_link',
+    fileSize: '4.5 MB'
   }
 ];
 
